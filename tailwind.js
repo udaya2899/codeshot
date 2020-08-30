@@ -4,7 +4,7 @@ module.exports = {
   prefix: '',
   important: false,
   separator: ':',
-  theme: {
+  theme: {  
     screens: {
       sm: '640px',
       md: '768px',
@@ -14,7 +14,11 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-
+      'dark-liver': '#484349',
+      'burnt-sienna': '#ef6b43',
+      'corn-silk': '#faf4d3',
+      'cadet-blue': '#66999b',
+      'steel-teal': '#508991',
       black: '#000',
       white: '#fff',
 
@@ -243,6 +247,8 @@ module.exports = {
       default: '1',
     },
     fontFamily: {
+      fira: ['Fira Sans', 'Arial', 'sans-serif'],
+      code: ['Press Start 2P', 'cursive'],
       sans: [
         'system-ui',
         '-apple-system',
