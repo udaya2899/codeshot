@@ -15,7 +15,7 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
       'dark-liver': '#484349',
-      'burnt-sienna': '#ef6b43',
+      'burnt-sienna': '#F5A38A',
       'corn-silk': '#faf4d3',
       'cadet-blue': '#66999b',
       'steel-teal': '#508991',
@@ -248,7 +248,7 @@ module.exports = {
     },
     fontFamily: {
       fira: ['Fira Sans', 'Arial', 'sans-serif'],
-      code: ['Press Start 2P', 'cursive'],
+      code: ['Anonymous\\ Pro', 'cursive'],
       sans: [
         'system-ui',
         '-apple-system',
