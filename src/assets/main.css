@@ -19232,6 +19232,14 @@ video {
   height: 35px;
 }
 
+.ace_scroller {
+  padding: 1rem;
+}
+
+.code-shadow {
+  box-shadow: -20px 20px 0 0 brown;
+}
+
 @media (min-width: 640px){
   .sm\:container{
     width: 100%;
